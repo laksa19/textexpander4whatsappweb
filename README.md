@@ -2,8 +2,8 @@
 
 ## Installation
 
-1. Tampermonkey https://www.tampermonkey.net/
-2. Install script https://laksa19.github.io/textexpander4whatsappweb/textexpander4whatsappweb.user.js
+1. [Tampermonkey](https://www.tampermonkey.net/)
+2. Install [user script](https://laksa19.github.io/textexpander4whatsappweb/textexpander4whatsappweb.user.js)
 
 ## How to use.
 
