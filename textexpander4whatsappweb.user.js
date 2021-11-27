@@ -15,11 +15,11 @@
     let textlist = [
         {
             text: "/hi",
-            expand: "Hi firend🙋‍♂️ "
+            expand: "Hi firend🙋‍♂️"
         },
         {
             text: "test",
-            expand: "this is a test message\n you can ignore it"
+            expand: "this is a test message,\n you can ignore it."
         },
     ]
 
