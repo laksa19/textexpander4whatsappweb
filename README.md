@@ -4,6 +4,7 @@
 
 1. [Tampermonkey](https://www.tampermonkey.net/)
 2. Install [user script](https://laksa19.github.io/textexpander4whatsappweb/textexpander4whatsappweb.user.js)
+3. Install [user script with reply button](https://laksa19.github.io/textexpander4whatsappweb/textexpander4whatsappwebplus.user.js)
 
 ## How to use.
 
