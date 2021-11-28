@@ -8,7 +8,6 @@
 // @match        https://web.whatsapp.com/*
 // @icon         https://laksa19.github.io/textexpander4whatsappweb/favicon.png
 // @require      http://code.jquery.com/jquery-3.4.1.min.js
-// @require      https://rawgit.com/notifyjs/notifyjs/master/dist/notify.js
 // @grant        none
 // ==/UserScript==
 
