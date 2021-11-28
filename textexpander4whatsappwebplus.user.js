@@ -71,10 +71,7 @@
 
         $.each(textlist, function(key,value) {
             $('#ctr').append(`
-            <button id="rbtn`+key+`" onclick="clickRB(this.title)" style="margin-right:5px; color :#fff; background: #08c65b; border: none; border-radius:3px; text-align: center; vertical-align: middle; text-decoration: none; font-size: 14px; cursor: pointer; padding: 5px 12px;" title="`+value.expand+`">`+value.text+`</button>
-            <script>
-            $('#rbtn`+key+`').
-            </script>`)
+            <button id="rbtn`+key+`" onclick="clickRB(this.title)" style="margin-right:5px; color :#fff; background: #08c65b; border: none; border-radius:3px; text-align: center; vertical-align: middle; text-decoration: none; font-size: 14px; cursor: pointer; padding: 5px 12px;" title="`+value.expand+`">`+value.text+`</button>`)
         })
 
     }
