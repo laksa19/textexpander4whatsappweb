@@ -8,6 +8,10 @@
 
 ## How to use.
 
+### YouTube
+
+[![Text Expander for WhatsApp Web](https://img.youtube.com/vi/BBNqITvNaSM/3.jpg)](https://youtu.be/BBNqITvNaSM "Text Expander for WhatsApp Web")
+
 ### Edi textlist variable
 
 ```js
